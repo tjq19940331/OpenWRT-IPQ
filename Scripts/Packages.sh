@@ -51,7 +51,7 @@ UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "js"
 UPDATE_PACKAGE "luci-app-lucky" "sirpdboy/luci-app-lucky" "main"
 UPDATE_PACKAGE "luci-app-adguardhome" "sirpdboy/luci-app-adguardhome" "main"
 UPDATE_PACKAGE "luci-app-netdata" "sirpdboy/luci-app-netdata" "master"
-UPDATE_PACKAGE "luci-app-advancedplus" "sirpdboy/luci-app-advancedplus" "main"
+UPDATE_PACKAGE "luci-app-advancedplus" "tjq19940331/luci-app-advancedplus" "main"
 UPDATE_PACKAGE "luci-app-dockerman" "sirpdboy/luci-app-dockerman" "main"
 
 UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
