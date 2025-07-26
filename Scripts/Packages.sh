@@ -52,8 +52,7 @@ UPDATE_PACKAGE "luci-app-lucky" "sirpdboy/luci-app-lucky" "main"
 UPDATE_PACKAGE "luci-app-adguardhome" "tjq19940331/luci-app-adguardhome" "main"
 UPDATE_PACKAGE "luci-app-netdata" "sirpdboy/luci-app-netdata" "master"
 UPDATE_PACKAGE "luci-app-advancedplus" "tjq19940331/luci-app-advancedplus" "main"
-UPDATE_PACKAGE "luci-app-dockerman" "sirpdboy/luci-app-dockerman" "main"
-
+、
 UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
 UPDATE_PACKAGE "nikki" "nikkinikki-org/OpenWrt-nikki" "main"
 UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
