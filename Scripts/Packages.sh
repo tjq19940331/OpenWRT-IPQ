@@ -57,8 +57,8 @@ UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
 UPDATE_PACKAGE "passwall" "xiaorouji/openwrt-passwall" "main" "pkg"
 UPDATE_PACKAGE "passwall2" "xiaorouji/openwrt-passwall2" "main" "pkg"
 UPDATE_PACKAGE "rtp2httpd" "stackia/rtp2httpd" "main"
-UPDATE_PACKAGE "adguardhome" "sirpdboy/luci-app-adguardhome" "main"
-UPDATE_PACKAGE "lucky" "sirpdboy/luci-app-lucky" "main"
+UPDATE_PACKAGE "adguardhome" "TanZhiwen2001/luci-app-adguardhome" "main"
+UPDATE_PACKAGE "lucky" "gdy666/luci-app-lucky" "main"
 
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 
