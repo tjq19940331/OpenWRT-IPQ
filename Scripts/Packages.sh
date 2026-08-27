@@ -61,7 +61,9 @@ UPDATE_PACKAGE "nikki" "nikkinikki-org/OpenWrt-nikki" "main"
 UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
 UPDATE_PACKAGE "passwall" "Openwrt-Passwall/openwrt-passwall" "main" "pkg"
 UPDATE_PACKAGE "passwall2" "Openwrt-Passwall/openwrt-passwall2" "main" "pkg"
-
+UPDATE_PACKAGE "luci-app-lucky" "gdy666/luci-app-lucky" "main"
+UPDATE_PACKAGE "luci-app-adguardhome" "MinimaxFlora/luci-app-adguardhome" "main"
+UPDATE_PACKAGE "luci-app-mosdns" "sbwml/luci-app-mosdns" "v5"
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 
 #UPDATE_PACKAGE "athena-led" "unraveloop/JDC-AX6600-Athena-LED-Controller" "main"
