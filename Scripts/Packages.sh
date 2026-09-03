@@ -65,6 +65,7 @@ UPDATE_PACKAGE "luci-app-lucky" "whzhni1/luci-app-lucky" "main"
 UPDATE_PACKAGE "luci-app-adguardhome" "MinimaxFlora/luci-app-adguardhome" "main"
 UPDATE_PACKAGE "luci-app-mosdns" "sbwml/luci-app-mosdns" "v5"
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
+UPDATE_PACKAGE "luci-app-cloudflarespeedtest" "kimmax603/luci-app-cloudflarespeedtest" "main"
 
 #UPDATE_PACKAGE "athena-led" "unraveloop/JDC-AX6600-Athena-LED-Controller" "main"
 UPDATE_PACKAGE "ddns-go" "sirpdboy/luci-app-ddns-go" "main"
